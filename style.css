@@ -1,0 +1,182 @@
+/* Awal nav=================================================================*/
+
+#Nav {
+    position: absolute;
+    z-index: 9999;
+    left: 0;
+    right: 0;
+    top: 0;
+
+}
+
+#Nav a {
+    color: white;
+}
+
+
+#Nav a:hover {
+    color: #c0c0c0;
+}
+
+/* Akhir nav------------------------------------------------------------------*/
+
+/* Awal header==============================================================*/
+#header {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#header::after {
+    z-index: -1;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 30vh;
+    background-image: linear-gradient(to top, rgb(66, 66, 138), rgba(0, 0, 0, 0));
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+#MyName {
+    position: relative;
+    z-index: 1;
+    font-size: 40px;
+    padding-top: 5vh;
+    color: #c0c0c0;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#MyFoto {
+    position: relative;
+    z-index: 1;
+    padding-top: 30vh;
+
+}
+
+#Foto {
+    position: relative;
+    z-index: 1;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.copyright {
+    position: absolute;
+    z-index: 1;
+    left: 1%;
+    bottom: 1%;
+    color: #c0c0c0;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    font-size: 12px;
+}
+
+.copyright a {
+    text-decoration: none;
+}
+
+/* Akhir header---------------------------------------------------------------*/
+
+/* Awal About me===============================================================*/
+#AboutMe {
+    position: relative;
+    padding-top: 50px;
+    z-index: 3;
+    width: 100%;
+    height: 500px;
+
+
+}
+
+/* Akhir About Me-------------------------------------------------------------*/
+
+
+/* Awal Project================================================================*/
+#MyProjects {
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    padding-top: 50px;
+
+}
+
+#MyProjects .allcard {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 2px;
+    justify-content: center;
+
+
+}
+
+.card {
+    margin: 5px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+   
+}
+
+.card-text {
+    text-align: justify;
+    font-size: 12px;
+}
+
+.card:hover {
+     box-shadow: 2px 2px 10px rgb(66, 66, 138);
+     transition: 0.5s;
+     transform: translate(0px,-5px);
+
+}
+
+.card a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+/* Akhir Project--------------------------------------------------------------*/
+
+
+/* Awal Contacts==============================================================*/
+
+#MyContacts {
+    position: relative;
+    z-index: 3;
+}
+
+#MyContacts .fa-whatsapp {
+    color: #25d366;
+}
+
+#MyContacts .fa-linkedin {
+    color: #007bb5;
+}
+
+#MyContacts .fa-instagram {
+    color: #c32aa3;
+}
+
+#MyContacts a:hover{
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+   transition: 0.5s;
+   transform: translate(0px,-5px);
+}
+
+/* Akhir Contacts-----------------------------------------------------------*/
+
+/* Animation */
+
+@keyframes bergerak {
+    0% {bottom: 0;}
+    100% {bottom: 0.5%;}
+}
+#linear {animation-timing-function: linear;}
+#ease {animation-timing-function: ease;}
+#ease-in {animation-timing-function: ease-in;}
+#ease-out {animation-timing-function: ease-out;}
+#ease-in-out {animation-timing-function: ease-in-out;}
