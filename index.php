@@ -122,7 +122,7 @@
                         <img src="images/4.png" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <h5 class="card-title">Blog- Batu Busuk Destination Tourism Web</h5>
-                            <p class="card-text">A website that provide information of Batu Busuk destination Tourism in Lambung Bukit / Pauh / Padang City / West Sumatraby
+                            <p class="card-text">A website that provide information of Batu Busuk destination Tourism in Lambung Bukit/ Pauh/ Padang City/ West Sumatra. By
                                 using Wordpress.com</p>
                             
                         </div>
