@@ -45,7 +45,8 @@ jQuery(document).ready(function ($) {
 
   
     $(window).on('load',function(){
-        $('#MyName .NamaSaya').addClass('NamaMuncul')
+        $('#MyName .NamaSaya').addClass('Muncul');
+        $('.rounded-circle').addClass('MunculFoto');
     });
 
 });
