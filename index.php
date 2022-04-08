@@ -77,7 +77,7 @@
 
     <!-- Akhir header -->
     <!-- About me -->
-    <div class="container bg-dark text-center" id="AboutMe">
+    <div class="container text-center" id="AboutMe">
 
         <div class="row">
             <h2>ABOUT ME</h2>
