@@ -38,7 +38,10 @@
                     <a class="nav-link" href="#MyProjects">MY PROJECTS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#MyContacts">MY CONTACTS</a>
+                    <a class="nav-link" href="#MyCertificates">CERTIFICATES</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#MyContacts">CONTACTS</a>
                 </li>
 
             </ul>
@@ -58,7 +61,7 @@
 
         <div class="row text-center" id="MyName">
             <div class="col">
-                <p>MUHAMMAD AGUNG MAHARDHIKA</p>
+                <p class="NamaSaya">MUHAMMAD AGUNG MAHARDHIKA</p>
             </div>
         </div>
 
@@ -68,14 +71,14 @@
                 href="https://pixabay.com/id/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1868667">Pixabay</a>
         </div>
 
-        
+
     </div>
-    
+
 
     <!-- Akhir header -->
     <!-- About me -->
-    <div class="container bg-light text-center" id="AboutMe">
-        
+    <div class="container text-center" id="AboutMe">
+
         <div class="row">
             <h2>ABOUT ME</h2>
             <div class="col">
@@ -122,47 +125,126 @@
                         <img src="images/4.png" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <h5 class="card-title">Blog- Batu Busuk Destination Tourism Web</h5>
-                            <p class="card-text">A website that provide information of Batu Busuk destination Tourism in Lambung Bukit/ Pauh/ Padang City/ West Sumatra. By
+                            <p class="card-text">A website that provide information of Batu Busuk destination Tourism in
+                                Lambung Bukit/ Pauh/ Padang City/ West Sumatra. By
                                 using Wordpress.com</p>
-                            
+
                         </div>
                     </a>
                 </div>
 
                 <div class="card" style="width: 18rem;">
                     <a href="https://batubusuak.wordpress.com/">
-                    <img src="images/4.png" class="card-img-top" alt="..." sizes="300">
-                    <div class="card-body">
-                        <h5 class="card-title">Web Aplication- West Sumatra Provincial Health Service Pharmacy Logistics
-                            Application</h5>
-                        <p class="card-text">A web application that can manage logistics goods in pharmacy warehouses
-                            using HTML, CSS, Bootstrap, Javascript, Jquery, PHP, Mysql server and other
-                            library/plugins </p>
-                      
-                    </div>
-                </a>
+                        <img src="images/4.png" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <h5 class="card-title">Web Aplication- West Sumatra Provincial Health Service Pharmacy
+                                Logistics
+                                Application</h5>
+                            <p class="card-text">A web application that can manage logistics goods in pharmacy
+                                warehouses
+                                using HTML, CSS, Bootstrap, Javascript, Jquery, PHP, Mysql server and other
+                                library/plugins </p>
+
+                        </div>
+                    </a>
                 </div>
 
-                
+
                 <div class="card" style="width: 18rem;">
                     <a href="https://github.com/MuhammadAgungMahardhika/lumen_api">
-                    <img src="images/Lumen.jpg" class="card-img-top" alt="..." sizes="300">
-                    <div class="card-body">
-                        <h5 class="card-title">API- API for My Android Mobile Project</h5>
-                        <p class="card-text">An api for my android mobile project called PAFITness for booking gym in Padang City, West Sumatra. By using Lumen PHP Framework </p>
-                      
-                    </div>
-                </a>
+                        <img src="images/Lumen.jpg" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <h5 class="card-title">API- API for My Android Mobile Project</h5>
+                            <p class="card-text">An api for my android mobile application for booking gym
+                                in Padang City, West Sumatra. By using Lumen PHP Framework </p>
+
+                        </div>
+                    </a>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <a href="https://github.com/MuhammadAgungMahardhika/Pafitness">
+                        <img src="images/Android.jpeg" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <h5 class="card-title">Android- Mobile Aplication</h5>
+                            <p class="card-text"> An android mobile aplication for searching gym in Padang City. By using Java, Firebase Auth, API, PostrgreSQL, Google Maps API  </p>
+
+                        </div>
+                    </a>
                 </div>
 
 
             </div>
         </div>
     </div><!-- Akhir My Projects -->
+
+    <!-- Awal My Certificate -->
+    <div class="container text-center" id="MyCertificates">
+        <div class="row">
+            <h2>CERTIFICATES</h2>
+            <div class="col allcertificate">
+                <div class="card" style="width: 18rem;">
+                    <a href="https://www.freecodecamp.org/certification/Muhammad_Agung_mahardhika/responsive-web-design">
+                        <img src="images/Freecodecamp.png" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <p class="card-title">Responsive web design</p>
+                        </div>
+                    </a>
+                </div>
+
+
+                <!-- <div class="card" style="width: 18rem;">
+                    <a href="https://github.com/MuhammadAgungMahardhika/lumen_api">
+                        <img src="images/dicoding.jpg" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <p class="card-title">Dasar pemrograman web</p>
+           
+                        </div>
+                    </a>
+                </div> -->
+
+                <div class="card" style="width: 18rem;">
+                    <a href="https://www.dicoding.com/certificates/JLX136K5GP72">
+                        <img src="images/dicoding.jpg" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <p class="card-title">Cloud practitioner essentials (dasar AWS Cloud)</p>
+           
+                        </div>
+                    </a>
+                </div>
+
+
+                <div class="card" style="width: 18rem;">
+                    <a href="https://www.dicoding.com/certificates/07Z65DELYXQR">
+                        <img src="images/dicoding.jpg" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <p class="card-title">Membuat aplikasi Android untuk pemula</p>
+           
+                        </div>
+                    </a>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <a href="https://www.dicoding.com/certificates/07Z65DELYXQR">
+                        <img src="images/revou.jpg" class="card-img-top" alt="..." sizes="300">
+                        <div class="card-body">
+                            <p class="card-title">Intro to Data Analytics</p>
+           
+                        </div>
+                    </a>
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Akhir My Cerficate -->
     <!-- My Contacts -->
     <div class="container text-center bg-light" id="MyContacts">
         <div class="row">
-            <h2>MY CONTACTS</h2>
+            <h2>CONTACTS</h2>
             <div class="col-md-12 text-center ">
                 <a href="https://www.instagram.com/m.agungmahardhika/"><i
                         class="fa-brands fa-instagram fa-3x p-2"></i></a>

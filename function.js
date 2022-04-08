@@ -7,7 +7,7 @@ jQuery(document).ready(function ($) {
 
         var wScrool = $(this).scrollTop();
         // parallax efex pada tulisan Nama saya
-
+        
 
         $('#MyFoto').css({
             'transform': 'translate(0px,' + wScrool / 12 + '%)'
@@ -33,9 +33,19 @@ jQuery(document).ready(function ($) {
         //   });
         // }
 
+        //parralax efek pada my projects
+
+        if(wScrool > $('#MyProjects').offset().top-10){
+            $('.card ').addClass('muncul');
+         
+        }
 
 
     });
 
+  
+    $(window).on('load',function(){
+        $('#MyName .NamaSaya').addClass('NamaMuncul')
+    });
 
 });
