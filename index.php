@@ -225,7 +225,7 @@
                 </div>
 
                 <div class="card" style="width: 18rem;">
-                    <a href="https://www.dicoding.com/certificates/07Z65DELYXQR">
+                    <a href="https://certificates.revou.co/muhammadagung-mahardhika-certificate-completion-damc22.pdf">
                         <img src="images/revou.jpg" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <p class="card-title">Intro to Data Analytics</p>
