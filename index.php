@@ -80,7 +80,7 @@
     <div class="container text-center" id="AboutMe">
 
         <div class="row">
-            <h2>ABOUT ME</h2>
+            <h2 class="efek1">ABOUT ME</h2>
             <div class="col">
                 <p class="text-justify">Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota Padang
                     Sumatra Barat</p>
@@ -94,7 +94,7 @@
     <!-- My Projects -->
     <div class="container text-center " id="MyProjects">
         <div class="row">
-            <h2>MY PROJECTS</h2>
+            <h2 class="efek1">MY PROJECTS</h2>
             <div class="col allcard">
 
                 <div class="card" style="width: 18rem;">

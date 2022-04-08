@@ -38,6 +38,12 @@ jQuery(document).ready(function ($) {
         if(wScrool > $('#MyProjects').offset().top-200){
             $('.card ').addClass('muncul');
          
+        }else if(wScrool > $('#AboutMe').offset().top-200){
+            $('.efek1').addClass('Muncul');
+            
+        }else if(wScrool > $('#MyProjects').offset().top-200){
+            $('.efek1').addClass('Muncul');
+            
         }
 
 
@@ -46,7 +52,8 @@ jQuery(document).ready(function ($) {
   
     $(window).on('load',function(){
         $('#MyName .NamaSaya').addClass('Muncul');
-        $('.rounded-circle').addClass('MunculFoto');
+        $('.rounded-circle').addClass('muncul');
+       
     });
 
 });
