@@ -35,7 +35,7 @@ jQuery(document).ready(function ($) {
 
         //parralax efek pada my projects
 
-        if(wScrool > $('#MyProjects').offset().top-150){
+        if(wScrool > $('#MyProjects').offset().top-200){
             $('.card ').addClass('muncul');
          
         }
