@@ -77,17 +77,14 @@
 
     <!-- Akhir header -->
     <!-- About me -->
-    <div class="container  text-center" id="AboutMe">
-
+    <div class="container text-center" id="AboutMe">
         <div class="row">
             <h2 class="efek1">ABOUT ME</h2>
             <div class="col">
-                <p class="text-justify">Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota Padang
+                <p style="text-align: justify;">Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota Padang
                     Sumatra Barat Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga nemo doloribus dicta tenetur nihil dolore doloremque suscipit eligendi illum culpa adipisci quos natus aspernatur aliquam minus, accusantium itaque corporis facilis?</p>
             </div>
-            <div class="col">
-                <p>Sistem Informasi</p>
-            </div>
+           
         </div>
     </div>
     <!-- Akhir About me -->
@@ -242,7 +239,7 @@
 
     <!-- Akhir My Cerficate -->
     <!-- My Contacts -->
-    <div class="container text-center " id="MyContacts">
+    <div class="container-fluid text-center " id="MyContacts">
         <div class="row">
             <h2>CONTACTS</h2>
             <div class="col-md-12 text-center ">
