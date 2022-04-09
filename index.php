@@ -83,7 +83,7 @@
             <h2 class="efek1">ABOUT ME</h2>
             <div class="col">
                 <p class="text-justify">Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota Padang
-                    Sumatra Barat</p>
+                    Sumatra Barat Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga nemo doloribus dicta tenetur nihil dolore doloremque suscipit eligendi illum culpa adipisci quos natus aspernatur aliquam minus, accusantium itaque corporis facilis?</p>
             </div>
             <div class="col">
                 <p>Sistem Informasi</p>
