@@ -81,10 +81,13 @@
         <div class="row">
             <h2 class="efek1">ABOUT ME</h2>
             <div class="col">
-                <p style="text-align: justify;">Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota Padang
-                    Sumatra Barat Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga nemo doloribus dicta tenetur nihil dolore doloremque suscipit eligendi illum culpa adipisci quos natus aspernatur aliquam minus, accusantium itaque corporis facilis?</p>
+                <p style="text-align: justify;">Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota
+                    Padang
+                    Sumatra Barat Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga nemo doloribus dicta
+                    tenetur nihil dolore doloremque suscipit eligendi illum culpa adipisci quos natus aspernatur aliquam
+                    minus, accusantium itaque corporis facilis?</p>
             </div>
-           
+
         </div>
     </div>
     <!-- Akhir About me -->
@@ -164,7 +167,8 @@
                         <img src="images/Android.jpeg" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <h5 class="card-title">Android- Mobile Aplication</h5>
-                            <p class="card-text"> An android mobile aplication for searching gym in Padang City. By using Java, Firebase Auth, API, PostrgreSQL, Google Maps API  </p>
+                            <p class="card-text"> An android mobile aplication for searching gym in Padang City. By
+                                using Java, Firebase Auth, API, PostrgreSQL, Google Maps API </p>
 
                         </div>
                     </a>
@@ -181,10 +185,14 @@
             <h2>CERTIFICATES</h2>
             <div class="col allcertificate">
                 <div class="card" style="width: 18rem;">
-                    <a href="https://www.freecodecamp.org/certification/Muhammad_Agung_mahardhika/responsive-web-design">
+                    <a
+                        href="https://www.freecodecamp.org/certification/Muhammad_Agung_mahardhika/responsive-web-design">
                         <img src="images/Freecodecamp.png" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <p class="card-title">Responsive web design</p>
+                        </div>
+                        <div class="star">
+                            <i class="fa fa-star fa-2x"></i>
                         </div>
                     </a>
                 </div>
@@ -205,7 +213,10 @@
                         <img src="images/dicoding.jpg" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <p class="card-title">Cloud practitioner essentials (dasar AWS Cloud)</p>
-           
+
+                        </div>
+                        <div class="star">
+                            <i class="fa fa-star fa-2x"></i>
                         </div>
                     </a>
                 </div>
@@ -216,7 +227,10 @@
                         <img src="images/dicoding.jpg" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <p class="card-title">Membuat aplikasi Android untuk pemula</p>
-           
+
+                        </div>
+                        <div class="star">
+                            <i class="fa fa-star fa-2x"></i>
                         </div>
                     </a>
                 </div>
@@ -226,7 +240,10 @@
                         <img src="images/revou.jpg" class="card-img-top" alt="..." sizes="300">
                         <div class="card-body">
                             <p class="card-title">Intro to Data Analytics</p>
-           
+
+                        </div>
+                        <div class="star">
+                            <i class="fa fa-star fa-2x"></i>
                         </div>
                     </a>
                 </div>

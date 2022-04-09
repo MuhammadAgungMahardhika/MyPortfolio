@@ -6,6 +6,12 @@ jQuery(document).ready(function($) {
         $('#MyName .NamaSaya').addClass('Muncul');
         $('#MyFoto .rounded-circle').addClass('muncul');
        
+    $('#MyCertificates .card').hover(function(){
+            $('.star').css({
+                'transition' : '2s',
+                'color': 'goldenrod'
+            });
+    });
 
     $(window).scroll(function () {
 

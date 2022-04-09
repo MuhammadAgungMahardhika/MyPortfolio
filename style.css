@@ -241,6 +241,15 @@ body{
     height: 150px;
 
 }
+
+.star {
+    position: absolute;
+    z-index: 1;
+    left: 2%;
+    bottom: 2%;
+    color: white;
+    font-size: 12px;
+}
 /* Akhir Certificate--------------------------------------------------------- */
 
 /* Awal Contacts==============================================================*/
