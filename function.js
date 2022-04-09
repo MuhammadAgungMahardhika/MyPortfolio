@@ -1,7 +1,11 @@
 // smooth scrooling
-var scrollSpy = new bootstrap.ScrollSpy(document.body, {target: '#navbar-example'});
 
-jQuery(document).ready(function ($) {
+jQuery(document).ready(function($) {
+    var scrollSpy = new bootstrap.ScrollSpy(document.body, {target: '#navbar-example'});
+
+        $('#MyName .NamaSaya').addClass('Muncul');
+        $('#MyFoto .rounded-circle').addClass('muncul');
+       
 
     $(window).scroll(function () {
 
@@ -50,10 +54,5 @@ jQuery(document).ready(function ($) {
     });
 
   
-    $(window).on('load',function(){
-        $('#MyName .NamaSaya').addClass('Muncul');
-        $('.rounded-circle').addClass('muncul');
-       
-    });
 
 });
