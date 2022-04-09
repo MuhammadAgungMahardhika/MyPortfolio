@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(0,39,60);
+}
+
 /* Awal nav=================================================================*/
 
 #Nav {
@@ -29,6 +33,7 @@
     background-image: url(images/1.jpg);
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 #header::after {
@@ -37,7 +42,7 @@
     display: block;
     width: 100%;
     height: 30vh;
-    background-image: linear-gradient(to top, rgb(66, 66, 138), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to top, rgb(28,28,28), rgba(0, 0, 0, 0));
     position: absolute;
     left: 0;
     bottom: 0;
@@ -102,6 +107,10 @@
     padding-top: 50px;
     z-index: 3;
     width:100%;  
+    background-color: rgb(28,28,28);
+    color: white;
+ 
+
 }
 
 .efek1{
@@ -118,7 +127,22 @@
     z-index: 3;
     width: 100%;
     padding-top: 50px;
+    background-color: rgb(0,39,60);
+    color: white;
 
+
+}
+
+#MyProjects::after{
+    z-index: -1;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgb(28,28,28), rgba(0, 0, 0, 0));
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 #MyProjects .allcard {
@@ -166,6 +190,22 @@
     z-index: 3;
     width: 100%;
     padding-top: 50px;
+    background-color: rgb(0,39,60);
+    color: white;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+
+}
+
+#MyCertificates::after{
+    z-index: -1;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to top, rgb(28,28,28), rgba(0, 0, 0, 0));
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 #MyCertificates .allcertificate {
@@ -191,7 +231,24 @@
     position: relative;
     z-index: 3;
     padding-top: 50px;
+    color: white;
+    background-color: rgb(0,39,60);
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+
 }
+
+#MyContacts::after{
+    z-index: -1;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgb(28,28,28), rgba(0, 0, 0, 0));
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
 
 #MyContacts .fa-whatsapp {
     color: #25d366;

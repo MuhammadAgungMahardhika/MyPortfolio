@@ -77,7 +77,7 @@
 
     <!-- Akhir header -->
     <!-- About me -->
-    <div class="container bg-light text-center" id="AboutMe">
+    <div class="container  text-center" id="AboutMe">
 
         <div class="row">
             <h2 class="efek1">ABOUT ME</h2>
@@ -242,7 +242,7 @@
 
     <!-- Akhir My Cerficate -->
     <!-- My Contacts -->
-    <div class="container text-center bg-light" id="MyContacts">
+    <div class="container text-center " id="MyContacts">
         <div class="row">
             <h2>CONTACTS</h2>
             <div class="col-md-12 text-center ">
