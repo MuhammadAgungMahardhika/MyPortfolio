@@ -1,5 +1,5 @@
-body{
-    background-color: rgb(0,39,60);
+body {
+    background-color: rgb(0, 39, 60);
 }
 
 /* Awal nav=================================================================*/
@@ -15,7 +15,7 @@ body{
 
 #Nav a {
     color: white;
-  
+
 }
 
 
@@ -44,7 +44,7 @@ body{
     display: block;
     width: 100%;
     height: 50%;
-    background-image: linear-gradient(to top, rgb(28,28,28), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to top, rgb(28, 28, 28), rgba(0, 0, 0, 0));
     position: absolute;
     left: 0;
     bottom: 0;
@@ -59,13 +59,13 @@ body{
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
-  
+
 }
 
 
 
-.NamaSaya{
-    opacity:0;
+.NamaSaya {
+    opacity: 0;
     transform: translate(-10px, 0px);
 }
 
@@ -80,10 +80,10 @@ body{
     position: relative;
     z-index: 1;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-    transform: translate(-5px,0px);
+    transform: translate(-5px, 0px);
 }
 
-.rounded-circle{
+.rounded-circle {
     opacity: 0;
 }
 
@@ -112,28 +112,28 @@ body{
     position: relative;
     padding-top: 50px;
     z-index: 3;
-    width:100%;  
-    background-color: rgb(0,39,60);
+    width: 100%;
+    background-color: rgb(0, 39, 60);
     color: white;
- 
+
 }
 
 
-#AboutMe::after{
+#AboutMe::after {
     z-index: -1;
     content: '';
     display: block;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(to bottom, rgb(28,28,28), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to bottom, rgb(28, 28, 28), rgba(0, 0, 0, 0));
     position: absolute;
     left: 0;
     bottom: 0;
 }
 
 
-.efek1{
-    opacity:0;
+.efek1 {
+    opacity: 0;
     transform: translate(-10px, 0px);
 }
 
@@ -146,38 +146,38 @@ body{
     z-index: 3;
     width: 100%;
     padding-top: 50px;
-    background-color: rgb(0,39,60);
+    background-color: rgb(0, 39, 60);
     color: white;
 
 
 }
 
-#MyProjects::after{
+#MyProjects::after {
     z-index: -1;
     content: '';
     display: block;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(to top, rgb(28,28,28), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to top, rgb(28, 28, 28), rgba(0, 0, 0, 0));
     position: absolute;
     left: 0;
     bottom: 0;
 }
 
 #MyProjects .allcard {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
-    flex-direction:row;
+    flex-direction: row;
     padding: 2px;
-    justify-content:center;
+    justify-content: center;
 }
 
- .card {
- opacity: 0;
+.card {
+    opacity: 0;
     margin: 5px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
-    transform:translate(-30px, 0px);
-   
+    transform: translate(-30px, 0px);
+
 }
 
 
@@ -187,15 +187,15 @@ body{
 }
 
 .card:hover {
-     box-shadow: 2px 2px 10px rgb(66, 66, 138);
-     transition: 0.5s;
-     transform: translate(0px,-5px);
+    box-shadow: 2px 2px 10px rgb(66, 66, 138);
+    transition: 0.5s;
+    transform: translate(0px, -5px);
 }
 
 .card a {
     text-decoration: none;
     color: black;
-    
+
 }
 
 
@@ -204,23 +204,23 @@ body{
 
 /* Awal Cerfificate---------------------------------------------------------- */
 
-#MyCertificates{
+#MyCertificates {
     position: relative;
     z-index: 3;
     width: 100%;
     padding-top: 50px;
-    background-color: rgb(0,39,60);
+    background-color: rgb(0, 39, 60);
     color: white;
 
 }
 
-#MyCertificates::after{
+#MyCertificates::after {
     z-index: -1;
     content: '';
     display: block;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(to bottom, rgb(28,28,28), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to bottom, rgb(28, 28, 28), rgba(0, 0, 0, 0));
     position: absolute;
     left: 0;
     bottom: 0;
@@ -250,6 +250,7 @@ body{
     color: white;
     font-size: 12px;
 }
+
 /* Akhir Certificate--------------------------------------------------------- */
 
 /* Awal Contacts==============================================================*/
@@ -259,18 +260,18 @@ body{
     z-index: 3;
     padding-top: 50px;
     color: white;
-    background-color: rgb(0,39,60);
+    background-color: rgb(0, 39, 60);
     box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
 
 }
 
-#MyContacts::after{
+#MyContacts::after {
     z-index: -1;
     content: '';
     display: block;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(to top, rgb(28,28,28), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to top, rgb(28, 28, 28), rgba(0, 0, 0, 0));
     position: absolute;
     left: 0;
     bottom: 0;
@@ -289,10 +290,10 @@ body{
     color: #c32aa3;
 }
 
-#MyContacts a:hover{
-   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-   transition: 0.5s;
-   transform: translate(0px,-5px);
+#MyContacts a:hover {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+    transform: translate(0px, -5px);
 }
 
 /* Akhir Contacts-----------------------------------------------------------*/
@@ -301,25 +302,46 @@ body{
 
 
 
-.muncul{
-	opacity: 1;
-	transform:translate(0px, 0px);
-	transition-duration: 2s;
-} 
-.Muncul{
+.muncul {
+    opacity: 1;
+    transform: translate(0px, 0px);
+    transition-duration: 2s;
+}
+
+.Muncul {
     opacity: 1;
     transition-duration: 1s;
-    transform: translate(0px,0px);
+    transform: translate(0px, 0px);
 }
 
 
 
 @keyframes bergerak {
-    0% {bottom: 0;}
-    100% {bottom: 0.5%;}
+    0% {
+        bottom: 0;
+    }
+
+    100% {
+        bottom: 0.5%;
+    }
 }
-#linear {animation-timing-function: linear;}
-#ease {animation-timing-function: ease;}
-#ease-in {animation-timing-function: ease-in;}
-#ease-out {animation-timing-function: ease-out;}
-#ease-in-out {animation-timing-function: ease-in-out;}
+
+#linear {
+    animation-timing-function: linear;
+}
+
+#ease {
+    animation-timing-function: ease;
+}
+
+#ease-in {
+    animation-timing-function: ease-in;
+}
+
+#ease-out {
+    animation-timing-function: ease-out;
+}
+
+#ease-in-out {
+    animation-timing-function: ease-in-out;
+}
