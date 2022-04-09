@@ -9,7 +9,7 @@ jQuery(document).ready(function ($) {
     $('#MyCertificates .card').hover(function () {
         $('.star').css({
             'transition': '2s',
-            'color': 'gold'
+            'color': '#ffd700'
         });
     });
 
