@@ -198,6 +198,12 @@ body {
 
 }
 
+.efek2 {
+    opacity: 0;
+    transform: translate(-10px, 0px);
+}
+
+
 
 
 /* Akhir Project--------------------------------------------------------------*/
@@ -251,6 +257,11 @@ body {
     font-size: 12px;
 }
 
+.efek3 {
+    opacity: 0;
+    transform: translate(-10px, 0px);
+}
+
 /* Akhir Certificate--------------------------------------------------------- */
 
 /* Awal Contacts==============================================================*/
@@ -294,6 +305,11 @@ body {
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     transition: 0.5s;
     transform: translate(0px, -5px);
+}
+
+.efek4 {
+    opacity: 0;
+    transform: translate(-10px, 0px);
 }
 
 /* Akhir Contacts-----------------------------------------------------------*/

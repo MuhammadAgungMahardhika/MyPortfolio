@@ -94,7 +94,7 @@
     <!-- My Projects -->
     <div class="container text-center " id="MyProjects">
         <div class="row">
-            <h2 class="efek1">MY PROJECTS</h2>
+            <h2 class="efek2">MY PROJECTS</h2>
             <div class="col allcard">
 
                 <div class="card" style="width: 18rem;">
@@ -182,7 +182,7 @@
     <!-- Awal My Certificate -->
     <div class="container text-center" id="MyCertificates">
         <div class="row">
-            <h2>CERTIFICATES</h2>
+            <h2 class="efek3">CERTIFICATES</h2>
             <div class="col allcertificate">
                 <div class="card" style="width: 18rem;">
                     <a
@@ -258,7 +258,7 @@
     <!-- My Contacts -->
     <div class="container-fluid text-center " id="MyContacts">
         <div class="row">
-            <h2>CONTACTS</h2>
+            <h2 class="efek4">CONTACTS</h2>
             <div class="col-md-12 text-center ">
                 <a href="https://www.instagram.com/m.agungmahardhika/"><i
                         class="fa-brands fa-instagram fa-3x p-2"></i></a>

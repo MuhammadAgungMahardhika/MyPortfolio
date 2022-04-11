@@ -43,19 +43,66 @@ jQuery(document).ready(function ($) {
         //   });
         // }
 
-        //parralax efek pada my projects
 
-        if (wScrool > $('#MyProjects').offset().top - 200) {
-            $('.card ').addClass('muncul');
-
-        } else if (wScrool > $('#AboutMe').offset().top - 200) {
-            $('.efek1').addClass('Muncul');
-
-        } else if (wScrool > $('#MyProjects').offset().top - 200) {
+          //parallax efek untuk tulisan about me
+        
+          if (wScrool > $('#AboutMe').offset().top - 500) {
             $('.efek1').addClass('Muncul');
 
         }
 
+
+          //parallax untuk tulisan myproject
+
+          if (wScrool > $('#MyProjects').offset().top - 500) {
+            $('#MyProjects .efek2').addClass('Muncul');
+
+        }
+
+        //parralax efek pada card my projects
+
+        if (wScrool > $('#MyProjects').offset().top - 500) {
+            $('#MyProjects .card ').addClass('muncul');
+
+        }else {
+            $('#MyProjects .card ').removeClass('muncul');
+
+        }
+
+     
+          //parallax untuk tulisan My certificate
+
+          if (wScrool > $('#MyCertificates').offset().top - 500) {
+            $('#MyCertificates .efek3').addClass('Muncul');
+
+        }
+
+        //parallax efek pada card my certificate
+
+        if (wScrool > $('#MyCertificates').offset().top - 500) {
+            $('#MyCertificates .card ').addClass('muncul');
+
+        }else {
+            $('#MyCertificates .card ').removeClass('muncul');
+
+        }
+
+
+           //parallax efek untuk tulisan contact
+        
+           if (wScrool > $('#MyContacts').offset().top - 500) {
+            $('.efek4').addClass('Muncul');
+
+        }
+
+        //parallax efek untuk card my contact
+       
+
+        
+
+       
+        
+       
 
     });
 
