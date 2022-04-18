@@ -47,7 +47,7 @@
         </nav>
 
         <!-- Akhir navigasi -->
-        <section>
+        <aside>
 
             <figure class="row text-center" id="MyFoto">
                 <div class="col">
@@ -61,7 +61,7 @@
                 </div>
             </div>
 
-        </section>
+        </aside>
 
         <aside class="copyright">
             Image source
@@ -79,18 +79,15 @@
     <main>
         <!-- About me -->
         <section class="container text-center" id="AboutMe">
-            <div class="row">
+            <article class="row">
                 <h2 class="efek1">ABOUT ME</h2>
                 <div class="col">
                     <p style="text-align: justify">
                         Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota
-                        Padang Sumatra Barat Lorem ipsum, dolor sit amet consectetur
-                        adipisicing elit. Fuga nemo doloribus dicta tenetur nihil dolore
-                        doloremque suscipit eligendi illum culpa adipisci quos natus
-                        aspernatur aliquam minus, accusantium itaque corporis facilis?
+                        Padang Sumatra Barat. Saat ini saya sedang berkuliah di jurusan Sistem Informasi Universitas Andalas. Saya sangat menggemari programing dalam bidang Developing Web terutama pada bagian Front-end. Saya bercita-cita menjadi seorang Front-end Developer professional. 
                     </p>
                 </div>
-            </div>
+            </article>
         </section>
         <!-- Akhir About me -->
         
