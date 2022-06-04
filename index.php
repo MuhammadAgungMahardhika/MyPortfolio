@@ -6,14 +6,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<<<<<<< HEAD
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
-=======
-    <!-- Bootstrap CSSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
->>>>>>> 8457504de2cdd2bab2a3d42520d71b0c4a0dd1f0
 
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/9d17737383.js" crossorigin="anonymous"></script>
@@ -28,7 +23,8 @@
     <header class="container">
         <!-- Awal navigasi -->
         <nav class="container navbar navbar-expand-lg navbar-light" id="Nav">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-example" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-example"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -69,11 +65,13 @@
 
         <aside class="copyright">
             Image source
-            <a href="https://pixabay.com/id/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1868667">Pexels</a>
+            <a
+                href="https://pixabay.com/id/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1868667">Pexels</a>
             dari
-            <a href="https://pixabay.com/id/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1868667">Pixabay</a>
+            <a
+                href="https://pixabay.com/id/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1868667">Pixabay</a>
         </aside>
-
+        
     </header>
 
     <!-- Akhir header -->
@@ -86,13 +84,13 @@
                 <div class="col">
                     <p style="text-align: justify">
                         Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota
-                        Padang Sumatra Barat. Saat ini saya sedang berkuliah di jurusan Sistem Informasi Universitas Andalas. Saya sangat menggemari programing dalam bidang Web Developing terutama pada bagian Front-end. Saya bercita-cita menjadi seorang Front-end Developer professional.
+                        Padang Sumatra Barat. Saat ini saya sedang berkuliah di jurusan Sistem Informasi Universitas Andalas. Saya sangat menggemari programing dalam bidang Developing Web terutama pada bagian Front-end. Saya bercita-cita menjadi seorang Front-end Developer professional. 
                     </p>
                 </div>
             </article>
         </section>
         <!-- Akhir About me -->
-
+        
         <!-- My Projects -->
         <section class="container text-center" id="MyProjects">
             <div class="row">
@@ -197,7 +195,8 @@
                 <h2 class="efek3">CERTIFICATES</h2>
                 <div class="col allcertificate">
                     <div class="card" style="width: 18rem">
-                        <a href="https://www.freecodecamp.org/certification/Muhammad_Agung_mahardhika/responsive-web-design">
+                        <a
+                            href="https://www.freecodecamp.org/certification/Muhammad_Agung_mahardhika/responsive-web-design">
                             <img src="images/Freecodecamp.png" class="card-img-top" alt="..." sizes="300" />
                             <div class="card-body">
                                 <p class="card-title">Responsive web design</p>
@@ -247,7 +246,8 @@
                     </div>
 
                     <div class="card" style="width: 18rem">
-                        <a href="https://certificates.revou.co/muhammadagung-mahardhika-certificate-completion-damc22.pdf">
+                        <a
+                            href="https://certificates.revou.co/muhammadagung-mahardhika-certificate-completion-damc22.pdf">
                             <img src="images/revou.jpg" class="card-img-top" alt="..." sizes="300" />
                             <div class="card-body">
                                 <p class="card-title">Intro to Data Analytics</p>
@@ -267,10 +267,13 @@
             <div class="row">
                 <h2 class="efek4">CONTACTS</h2>
                 <div class="col-md-12 text-center">
-                    <a href="https://www.instagram.com/m.agungmahardhika/"><i class="fa-brands fa-instagram fa-3x p-2"></i></a>
-                    <a href="https://www.linkedin.com/in/muhammad-agung-mahardhika-ba1b39203/"><i class="fa-brands fa-linkedin fa-3x p-2"></i></a>
+                    <a href="https://www.instagram.com/m.agungmahardhika/"><i
+                            class="fa-brands fa-instagram fa-3x p-2"></i></a>
+                    <a href="https://www.linkedin.com/in/muhammad-agung-mahardhika-ba1b39203/"><i
+                            class="fa-brands fa-linkedin fa-3x p-2"></i></a>
                     <a href="https://wa.me/6281373517899"><i class="fa-brands fa-whatsapp fa-3x p-2"></i></a>
-                    <a href="https://github.com/MuhammadAgungMahardhika"><i class="fa-brands fa-github fa-3x p-2"></i></a>
+                    <a href="https://github.com/MuhammadAgungMahardhika"><i
+                            class="fa-brands fa-github fa-3x p-2"></i></a>
                 </div>
             </div>
         </section>
@@ -280,8 +283,11 @@
 
     <!-- Optional JavaScript; choose one of the two! -->
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="function.js"></script>
 </body>
 
