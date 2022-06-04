@@ -83,7 +83,7 @@
                 <div class="col">
                     <p style="text-align: justify">
                         Nama saya adalah Muhammad Agung Mahardhika. Saya berasal dari Kota
-                        Padang Sumatra Barat. Saat ini saya sedang berkuliah di jurusan Sistem Informasi Universitas Andalas. Saya sangat menggemari programing dalam bidang Developing Web terutama pada bagian Front-end. Saya bercita-cita menjadi seorang Front-end Developer professional.
+                        Padang Sumatra Barat. Saat ini saya sedang berkuliah di jurusan Sistem Informasi Universitas Andalas. Saya sangat menggemari programing dalam bidang Web Developing terutama pada bagian Front-end. Saya bercita-cita menjadi seorang Front-end Developer professional.
                     </p>
                 </div>
             </article>
