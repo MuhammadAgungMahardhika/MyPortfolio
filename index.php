@@ -140,7 +140,7 @@
 
                     <div class="card" style="width: 18rem">
                         <a href="https://batubusuak.wordpress.com/">
-                            <img src="images/4.png" class="card-img-top" alt="..." sizes="300" />
+                            <img src="images/5.png" class="card-img-top" alt="..." sizes="300" />
                             <div class="card-body">
                                 <h5 class="card-title">
                                     Web Aplication- West Sumatra Provincial Health Service
