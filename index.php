@@ -41,7 +41,7 @@
                         <a class="nav-link" href="#MyCertificates">CERTIFICATES</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#MyContacts">CONTACTS</a>
+                        <a class="nav-link" href="#MyContacts">GET IN TOUCH</a>
                     </li>
                 </ul>
             </div>
@@ -262,7 +262,7 @@
         <!-- My Contacts -->
         <section class="container-fluid text-center" id="MyContacts">
             <div class="row">
-                <h2 class="efek4">CONTACTS</h2>
+                <h2 class="efek4">GET IN TOUCH</h2>
                 <div class="col-md-12 text-center">
                     <a href="https://muhammadagungmahardhika.wordpress.com/"><i class="fa-brands fa-wordpress fa-3x p-2"></i></a>
                     <a href="https://medium.com/@m.agungmahardika12"><i class="fa-brands fa-medium fa-3x p-2"></i></a>
