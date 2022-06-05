@@ -264,6 +264,7 @@
             <div class="row">
                 <h2 class="efek4">CONTACTS</h2>
                 <div class="col-md-12 text-center">
+                    <a href="https://muhammadagungmahardhika.wordpress.com/"><i class="fa-brands fa-wordpress fa-3x p-2"></i></a>
                     <a href="https://www.instagram.com/m.agungmahardhika/"><i class="fa-brands fa-instagram fa-3x p-2"></i></a>
                     <a href="https://www.linkedin.com/in/muhammad-agung-mahardhika-ba1b39203/"><i class="fa-brands fa-linkedin fa-3x p-2"></i></a>
                     <a href="https://wa.me/6281373517899"><i class="fa-brands fa-whatsapp fa-3x p-2"></i></a>
