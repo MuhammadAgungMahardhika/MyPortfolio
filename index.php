@@ -139,7 +139,7 @@
                     </div>
 
                     <div class="card" style="width: 18rem">
-                        <a href="https://batubusuak.wordpress.com/">
+                        <a href="https://github.com/MuhammadAgungMahardhika/Aplikasi-Logistik-Gudang-Farmasi-Dinas-Kesehatan-Prov.Sumbar">
                             <img src="images/5.png" class="card-img-top" alt="..." sizes="300" />
                             <div class="card-body">
                                 <h5 class="card-title">
